@@ -33,6 +33,7 @@
     "@babel/preset-flow": "^7.8.3",
     "@babel/preset-react": "^7.8.3",
     "@babel/preset-typescript": "^7.12.1",
+    "@bojagi/cli": "^0.15.0",
     "@brainly/s3": "^4.4.0",
     "@hot-loader/react-dom": "^16.8.6",
     "@khanacademy/flow-to-ts": "^0.1.9",

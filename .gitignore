@@ -19,6 +19,7 @@ yarn-error.log
 .cache
 .typescript
 temp
+.bojagi/tmp
 
 # Generated images
 /src/images/*.js
